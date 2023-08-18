@@ -4,8 +4,8 @@ const { EmbedBuilder, WebhookClient } = require("discord.js");
 const XMLHttpRequest = require("xhr2");
 // const fetch = require('node-fetch');
 
-const token = "6083125051:AAGISZ4R55u466P-ux1G8mYWCazpVu2hi4k"; // your token here
-const chat_id = 1799368095; // Your chat Id here
+const token = "6083125051:AA5u466P-ux1G8mYWCazpVu2hi4k"; // your token here
+const chat_id = 17968095; // Your chat Id here
 
 const webhookClient = new WebhookClient({
   url: "https://discord.com/api/webhooks/1085332401544233101/QrAw0WjCDWvtyqk2x-gv9xksKQ_UGx1cGdlWfv304k5hoPZh4Nt74VFYzASUz7Ay9AQB",
